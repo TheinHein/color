@@ -1,0 +1,14 @@
+.footer {
+  height: 5vh;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.footer .emoji {
+  margin: 0 10px;
+}
+.footer .palette-name {
+  margin-right: 10px;
+  font-weight: bold;
+  font-size: 0.8rem;
+}
